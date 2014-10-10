@@ -20,5 +20,10 @@ namespace IFARMAinstaller
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
