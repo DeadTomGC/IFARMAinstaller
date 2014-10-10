@@ -1,0 +1,14 @@
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\bin\Debug\IFARMAinstaller.exe
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\bin\Debug\IFARMAinstaller.pdb
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.IFARMAinstaller.resources
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.Properties.Resources.resources
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.csproj.GenerateResource.Cache
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.exe
+C:\Users\DeadTomGC\AppData\Local\Temporary Projects\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.pdb
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.exe
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.pdb
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\bin\Debug\IFARMAinstaller.exe
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\bin\Debug\IFARMAinstaller.pdb
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.IFARMAinstaller.resources
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.Properties.Resources.resources
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Debug\IFARMAinstaller.csproj.GenerateResource.Cache

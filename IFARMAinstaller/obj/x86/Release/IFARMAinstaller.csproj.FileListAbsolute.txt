@@ -1,0 +1,7 @@
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\bin\Release\IFARMAinstaller.exe
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\bin\Release\IFARMAinstaller.pdb
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Release\IFARMAinstaller.IFARMAinstaller.resources
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Release\IFARMAinstaller.Properties.Resources.resources
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Release\IFARMAinstaller.csproj.GenerateResource.Cache
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Release\IFARMAinstaller.exe
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\IFARMAinstaller\IFARMAinstaller\obj\x86\Release\IFARMAinstaller.pdb
